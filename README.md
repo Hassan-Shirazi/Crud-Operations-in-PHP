@@ -1,4 +1,4 @@
-# PHP & MySQL CRUD - Registration Form
+# PHP & MySQL CRUD-Registration Form
 
 This project demonstrates a simple **CRUD** (Create, Read, Update, Delete) application using **PHP** and **MySQL** for managing a **User Registration Form**.
 
